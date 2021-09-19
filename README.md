@@ -1,5 +1,6 @@
 # ShinyApp-HeatMap
 Link:  https://shaharw30.shinyapps.io/heatmap/
+
 In this project, I use a heatmap to show a summary of Kickstarter projects.
 In the heatmap we can see:
 1. Sum of invensments in Kickstarter projects by year, country and in total.
